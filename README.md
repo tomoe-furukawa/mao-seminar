@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 # メンバー紹介
 真央教授
 エマルス
-わかば
+わかばちゃん
 
 # ディレクトリ構成
 ```
